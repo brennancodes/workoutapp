@@ -15,3 +15,5 @@ This application can be used to track works so the user can view their progress 
 ### Stats
 
 ![View of stats page](assets/img/statsPage.png)
+
+:)
